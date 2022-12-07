@@ -4,20 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12e3b90-fdfb-4d09-b187-f0245a90da47" name="Changes" comment="- added gitignore">
-      <change afterPath="$PROJECT_DIR$/ta/curs7/abstractizare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/concepte_generale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/encapsulare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/exceptii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/exceptii2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/mostenire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/myfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ta/curs7/polimorfism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/c8/id.py" beforeDir="false" afterPath="$PROJECT_DIR$/prep/c8/id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ta/curs6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ta/curs6/curs6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ta/curs6_recapitulare.py" beforeDir="false" afterPath="$PROJECT_DIR$/ta/curs6/curs6_recapitulare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ta/curs6_to_be_imported.py" beforeDir="false" afterPath="$PROJECT_DIR$/ta/curs6/curs6_to_be_imported.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ta/curs7.py" beforeDir="false" />
+    <list default="true" id="e12e3b90-fdfb-4d09-b187-f0245a90da47" name="Changes" comment="- added curs7">
+      <change beforePath="$PROJECT_DIR$/.idea/ITF_TA_G30.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ITF_TA_G30.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs5.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs6/curs6.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs6/curs6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs6/curs6_recapitulare.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs6/curs6_recapitulare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs6/curs6_to_be_imported.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs6/curs6_to_be_imported.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/abstractizare.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/abstractizare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/concepte_generale.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/concepte_generale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/encapsulare.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/encapsulare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/exceptii.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/exceptii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/exceptii2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/exceptii2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/mostenire.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/mostenire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/myfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta/curs7/polimorfism.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA/curs7/polimorfism.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +56,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "last_opened_file_path": "/Users/adelaalexa/PycharmProjects/ITF_TA_G30/ta/curs7",
     "settings.editor.selected.configurable": "preferences.editor"
@@ -229,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670417460760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- added curs7">
+      <created>1670418514114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670418514114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- added curs7">
+      <created>1670418582652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670418582652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +264,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added gitignore" />
+    <MESSAGE value="- added curs7" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added curs7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
